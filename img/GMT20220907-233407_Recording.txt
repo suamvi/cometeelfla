@@ -1,0 +1,732 @@
+01:10:08	Bernoi Maximiliano:	Supuestamente no tengo el presente en el afterclass
+01:10:25	Bernoi Maximiliano:	(Que  ya se que no influye el after, pero si falló ahí, no se si puede fallar en una clase)
+01:12:09	Joaquin Castillo:	A mi me paso lo mismo, hasta ayer tenia ausente en el ultimo afterclass
+01:13:07	Francisco Caparroz:	verdadero
+01:13:08	Bernoi Maximiliano:	Es verdadero
+01:13:09	Bernoi Maximiliano:	No es
+01:13:10	Celeste Michel:	verdadero jaja
+01:13:10	Hugo Beas:	No es
+01:13:11	Agustin Di Nezio Camiletti:	no
+01:13:13	Angel Demaino:	No
+01:13:13	Francisco Caparroz:	es de etiquetas
+01:13:14	Manuel Saniez:	no es
+01:13:15	Ramiro Teodosio:	no es
+01:13:16	Gerardo Veliz Carreño:	falso
+01:13:16	Alvaro Paternina:	verdadero
+01:13:17	Joaquin Castillo:	Verdadero
+01:13:19	Lucas Biscochea:	es un seudo lenguaje
+01:13:19	Jenny Leslie Sanchez Montañez:	no
+01:13:25	Bernoi Maximiliano:	Exactamente
+01:13:37	Agustin Di Nezio Camiletti:	no tiene variables ni funciones
+01:13:40	Francisco Caparroz:	al igual que css usan modelo de cascada creo
+01:13:58	Bernoi Maximiliano:	CSS usa solo el modelo de cascada, justamente de ahí su nombre
+01:13:58	Alejandro Falivene:	depende de los criterios de la clasificación
+01:14:02	Bernoi Maximiliano:	HTML solo es el marcado de etiquetas
+01:14:26	Bernoi Maximiliano:	Semantica
+01:16:54	Guillermina Berton:	ordenadas
+01:16:54	Ramiro Teodosio:	ordenadas
+01:16:55	Felipe Signorelli:	ordenadas
+01:16:56	Francisco Caparroz:	ul
+01:16:56	Hector Sanchez Canelo:	ordenadas
+01:16:58	Joaquin Castillo:	ordenadas
+01:17:03	Bernoi Maximiliano:	Profe, puede ser que el iconito de las listas este mal?
+01:17:09	Víctor Suárez:	Ordenadas
+01:17:23	Bernoi Maximiliano:	Mil gracias
+01:17:23	Francisco Caparroz:	ah se me exploto la cabeza
+01:17:26	Bernoi Maximiliano:	me estaba desesperando
+01:17:27	Bernoi Maximiliano:	jajajajajaja
+01:17:28	Ramiro Teodosio:	jajaja
+01:17:37	Brian Rigoli:	jajajaj el hámster casi sale de la rueda en mi cabeza
+01:17:46	Bernoi Maximiliano:	JAJAJAJAJA
+01:18:49	Matias Caceres:	jajaa
+01:18:57	Bernoi Maximiliano:	Esos cuadrados parecen más runas que cuadrados (?)
+01:19:35	Bernoi Maximiliano:	Nuevo proyecto desbloqueado
+01:19:48	Manuel Saniez:	O_O
+01:19:53	Andres Orozco:	Cual es la etiqueta para la lista de definición?
+01:21:32	Bernoi Maximiliano:	Estaba por hacer ese comentario
+01:21:40	Lucas Biscochea:	alto fondo jajaja
+01:21:43	Leonardo Rodriguez:	un i3
+01:21:49	Bernoi Maximiliano:	Es que justamente soy técnico en informática jajajajaja
+01:21:55	Bernoi Maximiliano:	me hiciste dudar de mis conocimientos (?
+01:22:54	Hugo Beas:	con su respectivo tab
+01:24:40	Agustin Di Nezio Camiletti:	si
+01:24:41	Lucas Biscochea:	sisi
+01:24:41	Sofia Dulio:	si7
+01:24:42	Hugo Beas:	sí
+01:24:42	Leonardo Rodriguez:	si
+01:24:42	Rodrigo Lazarczyk:	si
+01:24:42	Santiago Menta:	si
+01:24:43	Mikaela Castro:	sii
+01:24:44	Guillermina Berton:	si
+01:24:44	Isauro Rodriguez:	sisi
+01:24:44	Alejandro Falivene:	si si
+01:24:45	Juan García Martínez:	siiii
+01:24:45	Lautaro Melillo:	si
+01:24:45	Romina Gisela:	sii
+01:24:46	Evelyn Ibara:	si
+01:24:46	Bernoi Maximiliano:	Y como se hace para cambiar ese icono por otro?
+01:24:47	Gerardo Veliz Carreño:	bien
+01:24:47	Aaron Gonzales:	sisis
+01:24:47	Mauro Ferraro:	se entiende
+01:24:48	Jose Angel Santana Candelaria:	BIEN
+01:24:49	Romina Gisela:	biennn
+01:24:49	Aaron Gonzales:	perfecto
+01:24:49	Martín Marron:	Vamos bien
+01:24:49	Lucas Biscochea:	vamos de 10
+01:24:50	Franco Pysny:	si joya
+01:24:50	Antonella Rivero:	Sí, perfecto
+01:24:50	Joaquin Castillo:	de diez
+01:24:50	Simon Agudelo:	bien
+01:24:51	Agustin Garcia:	ta bien
+01:25:00	Bernoi Maximiliano:	Perfecto
+01:25:05	Lucas Biscochea:	style none jajaj
+01:25:05	Maria Laura Jalil:	perfecto
+01:25:06	Hector Sanchez Canelo:	también se puede borrar
+01:25:09	Leonardo Rodriguez:	sacarlo?
+01:25:13	Guido Perugino:	como copiaste los <li> para abajo?
+01:25:46	Guido Perugino:	Gracias profe!
+01:25:52	Francisco Caparroz:	list-style se usa
+01:25:54	Lucas Biscochea:	macritips
+01:26:12	Celeste Michel:	aparte del type y start atributos, que otros atributos se pueden usar?
+01:26:56	Agustin Di Nezio Camiletti:	torta
+01:27:03	Matias Caceres:	macritips jajaja
+01:27:12	Bernoi Maximiliano:	Igual en lo general, dejar ese espacio no afecta y es practico para cuando revisas el código tener una vista mas limpia
+01:27:34	leon marafuschi:	para guiarse mejor
+01:27:41	Francisco Caparroz:	tampoco cambia si no le pones indentacion, pero es mejor hacerlo
+01:28:11	Bernoi Maximiliano:	Huevos
+01:28:12	Bernoi Maximiliano:	azucar
+01:28:12	Bernoi Maximiliano:	leche
+01:28:14	Bernoi Maximiliano:	jajajajaja
+01:28:15	leon marafuschi:	huevos
+01:28:16	leon marafuschi:	jajajaja
+01:28:32	Lucas Biscochea:	no puede faltar la leche jajaa
+01:28:37	Bernoi Maximiliano:	JAJAJAJAJAJA
+01:28:41	[Tutor] Sebastián Zanatta:	El huevo y el azúcar se mezclan y después los secos
+01:28:55	[Tutor] Felipe Ramos:	Yo ya se todo esto pero al menos estoy aprendiendo a hacer una torta
+01:29:05	[Tutor] Sebastián Zanatta:	Jajajaja
+01:29:06	Bernoi Maximiliano:	Pero después mezclas los secos con lo demás (?)
+01:29:09	Matias Caceres:	se aprende de todo
+01:29:15	Bernoi Maximiliano:	JAJAJAJAJAJAJAJAJAJAJAJAJAJA
+01:29:18	Francisco Caparroz:	Jajajajajaja que crack felipe
+01:29:18	[Tutor] Sebastián Zanatta:	Yo soy pastelero xd
+01:29:21	Daniel Beltrán:	podriamos decir que el ul es para los ingredientes y ol para la preparcion
+01:29:24	Matias Caceres:	otro lit
+01:29:27	Guillermina Berton:	dejar enfriar antes de desmoldar
+01:29:28	leon marafuschi:	ahora quiero ser pastelero
+01:29:29	Bernoi Maximiliano:	Excelente servicio (?)
+01:29:32	Matias Caceres:	pegar un mordisco
+01:29:43	Nicolas Orlando:	Dejala enfriar!
+01:29:47	Bernoi Maximiliano:	Pague un curso de Desarrollo Web y me vino con pastelería incluida
+01:30:02	Joaquin Castillo:	Jajajajajjajajja
+01:30:10	Antonella Rivero:	😂
+01:30:38	Guillermina Berton:	1.70
+01:30:39	Jordi Vidal:	1,70 B)
+01:30:44	Angel Demaino:	el mejor de la historia
+01:30:54	Ramiro Teodosio:	profe perdón poidria repetir como hace para copiar lalinea ta rápido?
+01:31:07	Jordi Vidal:	1,95 el dibu ahre
+01:31:09	[Tutor] Sebastián Zanatta:	la ul profe
+01:31:10	Agustin Garcia:	no seria UL primero?
+01:31:11	Hector Sanchez Canelo:	te saltaste el LI
+01:31:12	Ramiro Teodosio:	genialll muchas graciasss
+01:31:13	Leonardo Rodriguez:	te falto el <ul>
+01:31:41	Bernoi Maximiliano:	Efectivamente, es zurdo
+01:31:54	Bernoi Maximiliano:	Di Maria no esta también en el PSG?
+01:31:55	Franco Mendoza:	Busquen -atajos emmet HTML- en Google, y pueden encontrar esos atajos que hace el profe. y muchos mas
+01:31:56	Francisco Caparroz:	JAJJAJAA
+01:31:59	Tomás Cúneo:	sevilla
+01:32:00	Angel Demaino:	jajajajaja
+01:32:01	Matias Caceres:	atributo del papu gomez bailesito
+01:32:02	Tomas Corallo:	sevilla
+01:32:04	Mariano Quiroga:	sEVILLA
+01:32:04	Angel Demaino:	sevilla
+01:32:07	Eros Paviotti:	sevilla
+01:32:13	Bernoi Maximiliano:	Igual, es atlanta o atalanta?
+01:32:25	Agustin Garcia:	Profe que pasa si no usas el UL?
+01:32:33	Jonathan Marengo:	Di María está en la Juventus
+01:32:33	Lucas Biscochea:	Messi es arquero de la H a la O
+01:32:44	Jorge Mellado Vallejo:	Para que salgan cuando les den  click es con CSS o aquí mismo lo vemos ?
+01:33:35	Bernoi Maximiliano:	Los toma como desordenada
+01:33:48	Francisco Caparroz:	claro no esta en las cajitas
+01:33:51	Francisco Caparroz:	en criollo
+01:33:51	Bernoi Maximiliano:	Pareciera simplemente un texto de parrafo
+01:33:53	Francisco Caparroz:	jajaja
+01:34:06	Bernoi Maximiliano:	Yess
+01:34:07	Felipe Signorelli:	Si
+01:34:08	Simon Agudelo:	si
+01:34:08	Santiago Menta:	si
+01:34:08	Leonardo Rodriguez:	si si
+01:34:09	Romina Gisela:	sxiii
+01:34:09	Hugo Beas:	todo bien
+01:34:09	Aaron Gonzales:	sisisi
+01:34:10	Juan García Martínez:	sep
+01:34:10	Mauro Ferraro:	si
+01:34:10	Florencia Napoli Portal:	se
+01:34:12	Lautaro Melillo:	si
+01:34:12	Antonella Rivero:	Sí
+01:34:17	Angel Demaino:	Si lastima que faltan 4 mas jajaja
+01:34:18	Romina Gisela:	siii
+01:34:22	Ramiro Teodosio:	para hacer el menú después con css hay que usar lista desordenada verdad?
+01:34:39	Lucas Biscochea:	profe usted en el próximo after va a explicar figma? porque no caso una jajaja
+01:34:39	ANDRES ICAZA SERRANO:	que es ese HTML canvas?
+01:34:40	Bernoi Maximiliano:	La que va es crear un Banner y ponerlo como imagen (?)
+01:35:11	Hugo Beas:	dl
+01:35:17	Joaquin Gallego:	Profe una duda, no entendí bien en que se diferencian los 3 tipos de lista diferentes
+01:35:50	Matias Caceres:	como era el sitio web donde estaban todos los comandos de HTML y explicaba todo?
+01:36:02	Ramiro Teodosio:	w3school
+01:36:11	[Tutor] Sebastián Zanatta:	w3school
+01:36:20	Matias Caceres:	gracias seba
+01:36:32	Joaquin Gallego:	Gracias
+01:36:42	Bernoi Maximiliano:	El buen Logitech
+01:36:43	Guillermina Berton:	LA dl la podes armar mezclando las ol y las ul, no?
+01:36:48	Víctor Suárez:	Todo claro hasta ahora
+01:36:49	Bernoi Maximiliano:	Y sus productos configurables de Macros
+01:37:01	[Tutor] Felipe Ramos:	Aca esta todo Matias!https://www.w3schools.com/html/default.asp
+01:37:08	Profesor Coderhouse:	https://www.w3schools.com/html/html_lists.asp
+01:37:30	Nicolas Orlando:	Se pueden crear etiquetas?
+01:37:44	Mateo Castaño:	profe esta inteructuando en su pantalla o se me congelo?
+01:37:45	Joel abuin:	a mi no me salta los ítems me salta como aparte por ej la parte que dice zurdo o altura en la lista de messi
+01:38:02	Mauro Ferraro:	se ve
+01:38:03	Aaron Gonzales:	si se ve
+01:38:04	Laura Colorado:	si
+01:38:04	Jenny Leslie Sanchez Montañez:	si
+01:38:05	Juan García Martínez:	si
+01:38:05	Mateo Castaño:	se me uqedo estatico jeje
+01:38:06	Simon Agudelo:	si se ve
+01:38:11	Profesor Coderhouse:	<ul>            <h3>Jugadores de futbol de la selección: </h3>            <li>                Lionel Messi                <ul>                    <li>Zurdo</li>                    <li>1,70cm</li>                    <li>PSG</li>                </ul>            </li>            <li>                Dibu Martinez                <ul>                    <li>Derecho</li>                    <li>1,95cm</li>                    <li>Aston Villa</li>                </ul>            </li>            <li>                Fideo Dimaria                <ul>                    <li>Zurdo</li>                    <li>1,80cm</li>                    <li>Juventus</li>                </ul>            </li>            <li>                Papu Gomez                <ul>                    <li>Derecho</li>                    <li>1,68cm</li>                    <li>Sevilla</li>                </ul>            </li>        </ul>
+01:39:09	Guido Perugino:	Como haces para que se te separe solo del borde izq las etiquetas y las sub etiquetas?
+01:39:12	Joel abuin:	ahora si gracias
+01:39:19	Bernoi Maximiliano:	TAB
+01:39:27	Lucas Biscochea:	font-size
+01:39:37	Bernoi Maximiliano:	Con el tabulador las separas y das esa vista de "sangría"
+01:39:46	Guido Perugino:	Genial gracias
+01:40:04	Mauro Ferraro:	entonces generalmente se usa el ul nada mas?
+01:40:15	Mauro Ferraro:	ok
+01:40:38	Lucas Biscochea:	esta re bueno el i4
+01:40:45	[Tutor] Sebastián Zanatta:	Por eso hay muchas etiquetas ya obsoletas/deprecadas
+01:40:55	Alejandro Falivene:	seguimos
+01:40:55	Aaron Gonzales:	seguimos
+01:40:55	Santiago Nahuel Ruiz Sugliani:	sigamos
+01:40:55	Romina Gisela:	seguimos
+01:40:57	Nicolas Orlando:	Sigamos
+01:40:57	Mauro Ferraro:	seguimo
+01:40:58	Manuel Saniez:	seguimos nomás
+01:40:58	Hugo Beas:	tablas tablas
+01:40:58	Sofia Dulio:	seguimoos
+01:40:59	Bernoi Maximiliano:	Seguimos
+01:40:59	Andres Orozco:	Seguimos
+01:40:59	Antonella Rivero:	Seguimos
+01:41:00	Ramiro Teodosio:	seguimos
+01:41:00	Martín Marron:	Seguimos
+01:41:00	Jorge Mellado Vallejo:	Seguimos
+01:41:01	Jose Angel Santana Candelaria:	si rapido
+01:41:02	Joaquin Castillo:	Seguimos
+01:41:03	Guido Perugino:	Seguimoss
+01:41:05	Ivan Jajdelski:	seguimos
+01:41:05	David Colmenarez:	Seguimos...
+01:41:08	Jonathan Marengo:	por mi seguimos
+01:41:22	Brian Rigoli:	vamos adelante si, tenemos todos los ejemplos
+01:43:04	Agustin Di Nezio Camiletti:	hasta que llego flex box y grid
+01:43:06	Lucas Biscochea:	los colores de ccs son las nuevas tablas jaja
+01:44:01	Francisco Caparroz:	matriz
+01:44:03	Bernoi Maximiliano:	Excel
+01:44:03	Isauro Rodriguez:	algebra
+01:44:05	Agustín Plaza:	exel
+01:44:05	Juan García Martínez:	excel
+01:44:05	Leonardo Rodriguez:	AL COLE
+01:44:06	Simon Agudelo:	excell
+01:44:07	Hugo Beas:	Excel
+01:44:18	Bernoi Maximiliano:	Al cole JAJAJAJAJA best respuesta
+01:44:20	Bernoi Maximiliano:	Infravalorada
+01:45:17	Bernoi Maximiliano:	El th sería como el h1 dentro de la tabla
+01:45:19	Celeste Michel:	thead tbody tfoot tambien se usan?
+01:45:39	Celeste Michel:	th es el titulo de la columna
+01:45:59	Celeste Michel:	tr son rows columnas
+01:46:14	Andres Orozco:	Table no tiene etiqueta de cierre?
+01:46:23	Celeste Michel:	y td son los datos de adentro de las columnas
+01:46:24	Tomas Bolotnicoff:	que es td?
+01:46:46	Celeste Michel:	table data element
+01:47:46	Thiago Lewin:	si en la fila 2 tenes un td de mas como se veria?
+01:47:54	Lara cabrera:	aaaa ahora entendi
+01:47:55	Joaquín Miranda:	estaria como invertido no? las filas y columnas
+01:48:02	Hugo Beas:	Creo que si lo hace en visual quedará más claro
+01:48:08	Isauro Rodriguez:	Profe, donde irían los th?
+01:48:10	Braian Carranza:	esto se sigue usando ?
+01:48:16	Cristian Gabriel Gimenez:	como se hacia para comentar?}
+01:48:17	Andres Orozco:	Cual es el atajo para poner el código como comentario?
+01:48:38	Cristian Gabriel Gimenez:	gracias
+01:49:41	ANDRES ICAZA SERRANO:	PROFE, nos podes enviar el código despues
+01:49:42	Bernoi Maximiliano:	Altura
+01:49:42	Jordi Vidal:	altura
+01:50:45	Bernoi Maximiliano:	Estaba por preguntar eso
+01:50:47	Bernoi Maximiliano:	jajajajaja
+01:51:11	Joaquín Miranda:	Literal es mi altura y edad
+01:51:13	Joaquín Miranda:	shock
+01:51:21	Bernoi Maximiliano:	Te ghosteo
+01:51:29	Bernoi Maximiliano:	yo que vos reviso que puertos tenes abierto en el modem
+01:51:30	Bernoi Maximiliano:	(?)
+01:51:31	Lara cabrera:	doxeado
+01:51:35	Joaquin Arrua:	y yo tmb pero no con mi edad jajajs
+01:51:38	Matias Caceres:	ajjaaja
+01:51:51	Lucas Biscochea:	profe como hizo para modificar los tr a td al mismo tiempo?
+01:51:58	Hugo Beas:	ya escribió las características del otro Joaquín :v
+01:52:16	Lucas Biscochea:	que clase de brujeria es esaaa
+01:52:21	Bernoi Maximiliano:	xD
+01:52:27	Samuel Sedran:	Podría mandar todos los "hotkeys" para visual?
+01:52:27	Sebastian Albornoz:	buens noches! disculpen las demoras
+01:52:45	Samuel Sedran:	No ahora, sino ene un documento otro día
+01:52:49	Bernoi Maximiliano:	Con la extensión AUTO RENAME TAG podes modificar una de las dos etiquetas y te corrige la otra
+01:52:54	Celeste Michel:	no se si es que soy boluda o que pero no me aparece el alt , no lo encuentro en mi teclado jaja
+01:53:00	Hugo Beas:	Magia negra con Javascript
+01:53:01	Bernoi Maximiliano:	Si modificas la apertura, te configura automáticamente la etiqueta de cierre y viceversa
+01:53:09	Angel Demaino:	al lado de la barra espaciadora
+01:53:14	Isauro Rodriguez:	El alt es el primero a la izquierda del espacio
+01:53:17	Joaquín Miranda:	el alt esta al lado de la barra
+01:53:22	Matias Caceres:	jajajaajajaj celeste te tiene que decir alt
+01:53:26	Bernoi Maximiliano:	ALT barra espaciadora ALT GR
+01:53:26	Celeste Michel:	Command es lo mismo?
+01:53:30	Lucas Biscochea:	fua el java script parece alta macumba jajaja
+01:53:31	Mateo Ciantino:	Estaría necesitando que manden todo el código gg
+01:53:35	Thiago Lewin:	como haces para escribir 3 contenidos al mismo tiempo
+01:53:36	Mateo Ciantino:	Se me borró todo
+01:53:45	Celeste Michel:	option?
+01:53:46	Juan Barbosa:	Si option
+01:54:02	Celeste Michel:	ahhhh estuve como 5 min mirando mi teclado 🙁
+01:54:03	Cristian Gabriel Gimenez:	y las líneas de la tabla se hace con css?
+01:54:12	Hector Sanchez Canelo:	las líneas es con css
+01:54:12	Bernoi Maximiliano:	No se si el profe lo avala (?) pero recomiendo la extensión AUTO RENAME TAG
+01:54:13	Jordi Vidal:	está para jugar tutti fruit en código
+01:54:14	Bernoi Maximiliano:	Muy comoda
+01:54:15	Leandro Insua:	bordes
+01:54:16	Hugo Beas:	Las líneas
+01:54:16	Agustín Plaza:	el marco
+01:54:16	Ramiro Teodosio:	lineas
+01:54:16	Agustin Di Nezio Camiletti:	bordes
+01:54:16	Sofia Dulio:	líneas
+01:54:16	Alejandro Falivene:	lineas
+01:54:17	Joel abuin:	border?
+01:54:22	David Colmenarez:	Pense que saldrían las líneas de tablas
+01:54:22	Joaquín Miranda:	command es alt y option es control
+01:54:25	Franco Mendoza:	Como se ve si agregas un td mas sin querer por ejemplo en la segunda fila con un dato random? solo se agrega al lado ?
+01:54:45	Isauro Rodriguez:	Vale la pena ponerle borde o es mejor todo en css?
+01:55:04	Hector Sanchez Canelo:	eso seria estilos en linea
+01:55:04	Carlos Alberto Campos Huesos:	pero el borde se recomienda mejor hacerlo en css o estoy mal?
+01:55:29	Celeste Michel:	tengo el boton control
+01:56:11	Bernoi Maximiliano:	El Cellpadding no saca la propiedad del TH de centrado?
+01:56:13	Angel Demaino:	el micrófono profe
+01:56:17	Jordi Vidal:	un toque
+01:56:18	Mauro Ferraro:	si
+01:56:18	Matias Caceres:	si
+01:56:18	Hector Sanchez Canelo:	se corta
+01:56:20	Alejandro Falivene:	si si
+01:56:20	Agustín Plaza:	si
+01:56:21	Andres Orozco:	Si, se traba
+01:56:23	Guido Perugino:	rio
+01:56:23	Jose Angel Santana Candelaria:	se corta
+01:56:25	Guido Perugino:	rip
+01:56:26	Martín Marron:	Si se trabó
+01:56:26	Leonardo Rodriguez:	ahh creía q era yo
+01:56:29	Dante Trogsar:	Tas borracho
+01:56:29	Felipe Signorelli:	Estas con lag digamos
+01:56:35	Angel Demaino:	entre cortado estas
+01:56:39	Jose Angel Santana Candelaria:	lag
+01:56:41	Joaquín Miranda:	momento fibertell
+01:56:45	Hector Sanchez Canelo:	las nubes
+01:57:00	Leonardo Rodriguez:	momento q el vecino te bora el wifi
+01:57:01	Lara cabrera:	sjajsjsjassaj momento latam
+01:57:04	Mateo Ciantino:	Se rompió jajajaja
+01:57:06	Hector Sanchez Canelo:	debe ser la compu
+01:57:10	Hector Sanchez Canelo:	alguna tarea
+01:57:14	Matias Caceres:	cambio de contra el vecino xd
+01:57:17	Francisco Caparroz:	reinicie prfe
+01:57:22	Manuel Figueroa:	golpe al micrófono y capas se arregla
+01:57:23	Francisco Caparroz:	de frente mar
+01:57:30	David Colmenarez:	Se conecto el vecino  jajaja
+01:57:43	Bernoi Maximiliano:	OperaGX le gana
+01:57:43	Bernoi Maximiliano:	(?)
+01:57:55	Hector Sanchez Canelo:	te esta consumiendo toda la ram
+01:57:56	Agustin Minnicelli:	asi jugaba al counter yo
+01:57:57	Lucas Biscochea:	jajaja me hace acordar a cuando tenia 1 mb de internet jajaja
+01:58:04	Matias Caceres:	fíjate en la barra de tareas si algo te esta consumiendo
+01:58:05	Matias Caceres:	de mas
+01:58:06	Hugo Beas:	jajajajaja al counter
+01:58:10	Bernoi Maximiliano:	o los 128mb de memoria ram
+01:58:11	Bernoi Maximiliano:	(?)
+01:58:11	Mateo Ciantino:	Profe, me podría pasar todo el código por favor?
+01:58:16	Celeste Michel:	jajaja mi esposo me dice ay esos son problemas del tercer mundo 😩
+01:58:20	Matias Caceres:	en el administrador
+01:58:22	Matias Caceres:	de tareas
+01:58:25	Manuel Figueroa:	sale css?
+01:58:31	Franco Mendoza:	parece como si fuese el internet tambien
+01:58:32	Matias Caceres:	sale css
+01:58:36	Agustin Minnicelli:	no hay un comando para arreglar eso?
+01:58:38	Matias Caceres:	se aprovecha el bug
+01:58:40	Lara cabrera:	sale aram
+01:58:48	Hugo Beas:	profe,  dé la clase por aquí
+01:58:55	Mateo Ciantino:	jajajajaja
+01:58:59	Mateo Ciantino:	todo por escrito
+01:59:05	Celeste Michel:	no puede ser jajajaja
+01:59:06	Hugo Beas:	jajajaja, código, clase, todo
+01:59:09	Celeste Michel:	ahora si
+01:59:09	Felipe Signorelli:	ahora si
+01:59:10	Lucas Biscochea:	que feo seria vivir en España y perderte el internet argentino jaja nacional y popular jaja
+01:59:10	Mauro Ferraro:	ahora si
+01:59:11	Angel Demaino:	Si
+01:59:11	Andres Orozco:	Si
+01:59:11	Santiago Menta:	si
+01:59:11	Joaquín Miranda:	sisi
+01:59:13	Mateo Ciantino:	ahí va
+01:59:13	Alejandro Falivene:	ahora si
+01:59:14	Mark Nakamichi:	si
+01:59:14	Aaron Gonzales:	si
+01:59:14	Hugo Beas:	listo
+01:59:17	Maria Laura Jalil:	sisisi
+01:59:21	Martín Marron:	Ahora si
+01:59:21	Antonella Rivero:	Si
+01:59:22	Bernoi Maximiliano:	Recien recien
+01:59:25	Bernoi Maximiliano:	tenia 2 profes conectados
+01:59:33	Joel abuin:	el cellpadding no me salta
+01:59:35	Tomás Cúneo:	ya nos mandamos una partida
+01:59:52	Matias Caceres:	meti dos headshots y sali
+01:59:59	Alejandro Falivene:	gracias por la data
+02:00:05	Bernoi Maximiliano:	No era otro anfitrión, tenia 2 pantallas tuyas jajajajaja
+02:00:05	Hugo Beas:	sí
+02:00:06	Joel abuin:	si
+02:00:10	Maria Laura Jalil:	si
+02:00:45	Mateo Castaño:	profe una pregunta fuera de la explicacion, como pongo el tema de colores que usted tiene en visual? jeje ne gusta
+02:00:46	Bernoi Maximiliano:	El cellpadding era (?)
+02:01:00	Lucas Biscochea:	eso igualmente lo podemos modificar en css no profe ?
+02:01:10	Lucas Biscochea:	o boostrap
+02:01:11	Bernoi Maximiliano:	Con el 23 y 33 (edades) se nota más que no está centrado
+02:01:22	Bernoi Maximiliano:	Profe
+02:01:29	Mateo Castaño:	graciaaas
+02:01:35	Andres Orozco:	Es mala practica hacerlo desde HTML?
+02:01:44	Bernoi Maximiliano:	No se si usted lo avala (?) pero la extensión para el VSC de Auto Rename Tag es super practica
+02:02:05	Joaquin Gallego:	Como hago para ver lo que estoy haciendo desde una pagina?
+02:02:17	Leonardo Rodriguez:	se pone un br ?
+02:02:18	[Tutor] Sebastián Zanatta:	Generalmente, una vez aprenden css, todo se hace en el css
+02:02:18	Matias Caceres:	control y s
+02:02:25	Matias Caceres:	para guardar joaquin
+02:02:25	Gerardo Veliz Carreño:	auto close tag sirve para cerrar el tag de inicio automaticamente
+02:02:38	Leandro Insua:	colspan o rowspan
+02:02:56	Angel Demaino:	Pero quedaría mal
+02:03:16	Angel Demaino:	Okey okeyyy
+02:03:24	Bernoi Maximiliano:	Yess
+02:03:24	Leandro Insua:	de 10
+02:03:25	Martín Marron:	Si
+02:03:26	Hugo Beas:	sí
+02:03:26	Angel Demaino:	Si
+02:03:26	Mauro Ferraro:	se
+02:03:26	Antonella Rivero:	Sí
+02:03:26	Laura Colorado:	sis
+02:03:27	Simon Agudelo:	Siii
+02:03:27	Gerardo Veliz Carreño:	todo bien
+02:03:29	Lautaro Melillo:	sisi
+02:03:29	Leonardo Rodriguez:	si si
+02:03:31	Romina Gisela:	siii
+02:03:33	Víctor Suárez:	Todo buien
+02:03:56	Mateo Ciantino:	Profe, podría compartir todo el código por favor?
+02:03:58	Celeste Michel:	pie
+02:04:55	Bernoi Maximiliano:	th
+02:05:40	Angel Demaino:	Aguante el universo
+02:06:34	Profesor Coderhouse:	https://es.wikipedia.org/wiki/Sistema_solar
+02:06:53	Mateo Ciantino:	Como hace para poner tanta flechitas y esas cosas tan rápido?
+02:07:10	Lucas Biscochea:	te tira todo el código??? wtf
+02:07:18	Jose Angel Santana Candelaria:	profe en mac como le puedes dar a inspeccionar?
+02:07:20	Celeste Michel:	Tengo una pregunta que nada que ver pero no me quiero olvidar de preguntar. alla en argentina se usa StackOverFlow?
+02:07:21	Nicolás Fonseca:	Parapara para para
+02:07:24	Nicolás Fonseca:	Como hacemos eso
+02:07:25	Bernoi Maximiliano:	F12
+02:07:50	Celeste Michel:	Estados unidos
+02:07:52	Bernoi Maximiliano:	El buen SOF
+02:07:55	Lucas Biscochea:	abajo tira el css ??
+02:08:38	Mauro Ferraro:	si
+02:08:38	Martín Marron:	Sisi
+02:08:38	Bernoi Maximiliano:	yes
+02:08:39	Ramiro Teodosio:	siii
+02:08:39	Santiago Menta:	si
+02:08:41	Alejandro Falivene:	si si
+02:08:41	Angel Demaino:	Supongo que si
+02:08:42	Joaquín Miranda:	re bien
+02:08:42	ANDRES ICAZA SERRANO:	siii
+02:08:42	Leonardo Rodriguez:	si
+02:08:43	Isauro Rodriguez:	De 10!
+02:08:45	Antonella Rivero:	Sii
+02:08:48	Victor Suarez:	todo ok
+02:09:10	Federico Fernandez:	hola profe!! me quede sin internet en la compu y me conecte con el celu. hay algún incoveniente con el presente??
+02:09:26	Federico Fernandez:	muchas gracias 😁
+02:09:38	Joel abuin:	donde quedaría guardada la info del formulario?
+02:09:47	Bernoi Maximiliano:	Php¡
+02:09:54	Bernoi Maximiliano:	Php*
+02:10:10	Bernoi Maximiliano:	O SQL
+02:10:13	Bernoi Maximiliano:	son para base de datos
+02:12:00	Joel abuin:	a mi salto ya con action
+02:12:05	Joel abuin:	apenas puse form
+02:12:20	[Tutor] Felipe Ramos:	Hola Federico!Ya tenes el presente!
+02:12:41	ANDRES ICAZA SERRANO:	puede estar enlazado  a una base de datos
+02:12:42	ANDRES ICAZA SERRANO:	?
+02:13:07	Bernoi Maximiliano:	Es en donde esta el index (en este caso)
+02:13:38	ANDRES ICAZA SERRANO:	oki gracias
+02:13:52	Lucas Biscochea:	nos falta banda jajaja
+02:14:47	Joel abuin:	es mejor post entonces? digamos
+02:15:02	Rodrigo Lazarczyk:	y el creador de formulario tiene acceso a los datos enviados ?
+02:15:07	Bernoi Maximiliano:	El GET podría funcionar cuando buscas información separada categóricamente
+02:15:18	Rodrigo Lazarczyk:	del
+02:15:29	Alejandro Falivene:	dependerá si necesitas que sea visible o no
+02:15:41	Sofia Dulio:	sisi
+02:15:48	Joel abuin:	ahh buenísimo !!
+02:16:21	Angel Demaino:	Osea es lo mismo decir que todos tienen nuestra información si quieren xd
+02:16:48	Hugo Beas:	Tiene algún impacto en cuanto a la velocidad de procesamiento de datos que sea Get o Post?
+02:16:58	Bernoi Maximiliano:	Suele ser casi instantaneo
+02:16:59	Bernoi Maximiliano:	pero si
+02:17:02	Bernoi Maximiliano:	Get es mas rapido
+02:17:10	Hugo Beas:	Gracias, Bernoi!
+02:17:11	Alvaro Paternina:	Que es un metadato?
+02:17:57	Victor Suarez:	jajajjajja pip, pup, pap, pip
+02:18:02	Victor Suarez:	genio
+02:18:23	Lucas Biscochea:	cuando hagamos el curso full stack vamos a saber a hacer todo eso??
+02:18:35	Alejandro Falivene:	alguna vez me pasó que me mandó cualquier cosa que no ten{ía nada que ver con mi busqueda
+02:18:41	Andres Orozco:	El Post viaja a los encabezados HTML del navegador del usuario y despues se borran cuando salga de la pagina? Es medio confuso, perdon jajaja
+02:18:52	Matias Caceres:	lucas ya estas haciendo el curso de full stack
+02:18:57	Victor Suarez:	entendido señor Thomson
+02:18:57	Matias Caceres:	pero una parte
+02:19:23	Lucas Biscochea:	dios! creo que tanta información va a matar mi pobre cerebro tercermundista
+02:20:23	Joel abuin:	tal cual lucas ajajaj
+02:20:49	Santiago Nahuel Ruiz Sugliani:	tranqui, es práctica
+02:21:21	Alejandro Falivene:	siii, ya va ir tomando forma todo
+02:21:22	[Tutor] Sebastián Zanatta:	Igual tranqui chicos que hay cosas que verán mas adelante
+02:21:45	[Tutor] Sebastián Zanatta:	de momento tienen que entender como hacer los formularios y esas diferencias del get y post
+02:21:50	Lucas Biscochea:	tenemos after esta semana? estaría muy bueno!
+02:22:18	Joel abuin:	los atributos estos hay que escribirlos completos no? o hay atajos?
+02:23:42	Jordi Vidal:	volumen
+02:23:57	Jordi Vidal:	sisi ahdhsjda
+02:24:16	Lucas Biscochea:	que piola!
+02:24:43	Angel Demaino:	Wow
+02:24:48	Jose Angel Santana Candelaria:	wow mucha informacion jaja
+02:24:59	Romina Rios:	ya se empieza a complicarrrr
+02:25:01	Felipe Poblete:	No se quien es mi tutor, pero please no me dejen ausente
+02:25:05	Jose Angel Santana Candelaria:	😅
+02:25:10	Celeste Michel:	tambien el <textarea> se usa para formularios no?
+02:25:14	ANDRES ICAZA SERRANO:	para validar datos..
+02:26:04	Bernoi Maximiliano:	Que pasa si llenamos el "Name" y el "ID"
+02:26:05	Bernoi Maximiliano:	?
+02:26:24	Carlos Di Costa:	pregunta, cuando una pag te pide poner de contaseña una mayúscula, numero o icono def forma obligatoria se le agrega una especificación?
+02:26:25	Agustin Di Nezio Camiletti:	y las etiquetas label
+02:26:43	[Tutor] Felipe Ramos:	Chicos recuerden que la mejor forma de que aprender los contenidos es ir probando y jugando con el código por su cuenta. Mañana pueden ponerse otra vez la clase e ir practicando.
+02:26:55	[Tutor] Sebastián Zanatta:	Eso lo hacen con JavaScript Carlos
+02:27:01	[Tutor] Sebastián Zanatta:	una validación del formulario
+02:27:38	Carlos Di Costa:	aa muchas gracias
+02:28:16	Martín Marron:	Si
+02:28:16	Leonardo Rodriguez:	si
+02:28:16	ANDRES ICAZA SERRANO:	sii
+02:28:17	Leandro Insua:	si
+02:28:18	Mauro Ferraro:	si
+02:28:19	Bernoi Maximiliano:	A medias (?)
+02:28:19	Milagros Gomez Corres:	sii
+02:28:20	Lautaro Melillo:	si
+02:28:22	Simon Agudelo:	siii
+02:28:24	Franco González:	si
+02:28:34	Leonardo Rodriguez:	ahora como te roban los datos?
+02:28:37	Bernoi Maximiliano:	La diferencia entre Name y el ID cual seria exactamente?
+02:29:22	Angel Demaino:	Me esta explotando la cabeza
+02:30:04	Leonardo Rodriguez:	ahhhhh
+02:30:26	Matias Caceres:	bien Felipe levantando la mano con respetp
+02:30:29	Matias Caceres:	respeto
+02:30:38	Gerardo Veliz Carreño:	profesor que es el payload que nombraste?
+02:31:01	Aaron Gonzales:	los otros hablan sin levantar la mano
+02:31:08	Aaron Gonzales:	grande felipe
+02:31:19	Matias Caceres:	si.
+02:31:29	Bernoi Maximiliano:	Andamos sensibles? Jajajaja
+02:31:41	Matias Caceres:	estoy re lady hoy
+02:31:43	Thiago Lewin:	Si lo hago con get, con name = "hola", y en la carpeta donde tengo la pagina ya hay una carpeta llamada "hola", no crea nada no?
+02:32:17	Bernoi Maximiliano:	Debe ser el cambio de clima (????)
+02:33:13	Jordi Vidal:	luna en capricornio
+02:33:22	Bernoi Maximiliano:	JAJAJAJAJAJAJA
+02:33:33	Martín Marron:	Sisi
+02:33:34	Leonardo Rodriguez:	si
+02:33:34	Romina Rios:	si
+02:33:35	Hugo Beas:	sí
+02:33:35	Antonella Rivero:	Si
+02:33:36	Santiago Nahuel Ruiz Sugliani:	perfecto
+02:33:36	ANDRES ICAZA SERRANO:	siiiiiiiiiiii
+02:33:37	Mauro Ferraro:	si
+02:33:37	Simon Agudelo:	siii
+02:33:39	Carlos Di Costa:	si profe
+02:33:39	Lautaro Melillo:	si
+02:33:39	Florencia Napoli Portal:	se
+02:33:41	Bernoi Maximiliano:	Yo tengo una duda (?)
+02:34:35	Bernoi Maximiliano:	Cual sería la diferencia entre "name" y "ID"?
+02:34:47	Bernoi Maximiliano:	Porque si los llenamos con los mismos valores, que sentido se le da?
+02:35:06	[Tutor] Sebastián Zanatta:	el id se usara mas adelante en Javascript
+02:35:07	Leonardo Rodriguez:	con css?
+02:35:10	Leonardo Rodriguez:	o jv?
+02:35:14	Matias Caceres:	aceptar términos de opcion
+02:35:16	Matias Caceres:	:D
+02:35:31	Bernoi Maximiliano:	Gracias Seba
+02:35:42	Joel abuin:	no me saltan asi como a vos los códigos profe lo de button type y de mas
+02:35:42	Bernoi Maximiliano:	Profe, una consulta más
+02:35:48	Bernoi Maximiliano:	Cuando esta la casilla para escribir
+02:36:01	Bernoi Maximiliano:	en algunos casos tienen una info de que tenes que poner, escrita semi transparente
+02:36:05	Bernoi Maximiliano:	Como se logra eso?
+02:36:10	Santiago Nahuel Ruiz Sugliani:	el placeholder?
+02:36:48	Joel abuin:	ahora siii gracias
+02:36:52	Bernoi Maximiliano:	y ya el tema de la transparencia es css?
+02:37:59	Bernoi Maximiliano:	Como cuando valoramos la clase (?
+02:38:03	Agustin Di Nezio Camiletti:	lo que va en el for es para poder dar click en el label y que te deje dentro del input..no ?
+02:38:35	Joel abuin:	voy a tener que ver de nuevo esta clase jajaja
+02:39:28	Bernoi Maximiliano:	Me ofende que no haya ninguna Japonesa (?)
+02:39:33	Bernoi Maximiliano:	Donde tengo mi Toyota?
+02:39:52	Bernoi Maximiliano:	Jajajaja es que justo la que usaste era Coreana
+02:39:58	Bernoi Maximiliano:	Profe sos el 10
+02:40:05	Matias Caceres:	mañana entro a discord a la tardecita si se quieren sumar y chusmiamos cosas del curso
+02:40:18	Simon Agudelo:	pregunta con respecto al ID... por buenas practicas los ids no se deben repetir... no habría lio con eso?
+02:41:18	Bernoi Maximiliano:	Para que aparezca seria el label
+02:41:56	Bernoi Maximiliano:	Ahora.... Si el checkbox permite seleccionar todas las opciones, pero el radio con diferente nombre tambien
+02:42:02	Bernoi Maximiliano:	Cuando usamos uno y cuando otro?
+02:42:21	[Tutor] Sebastián Zanatta:	Y va a depender del formulario que estén haciendo
+02:42:24	Gerardo Veliz Carreño:	en el for del checkbox no va el nombre del name??
+02:42:29	[Tutor] Sebastián Zanatta:	Que es lo que necesitan
+02:43:01	Hugo Beas:	No
+02:43:02	Laura Colorado:	no
+02:43:02	Mauro Ferraro:	no
+02:43:02	Bernoi Maximiliano:	Ninguna
+02:43:04	Lautaro Melillo:	no
+02:43:05	Antonella Rivero:	No
+02:43:05	Bernoi Maximiliano:	10 de 10
+02:43:06	Carlos Di Costa:	vamos bine
+02:43:10	Simon Agudelo:	todo muy claro
+02:43:12	Bernoi Maximiliano:	Sublime
+02:43:21	Mateo Castaño:	O PROFE SOLO UNA ENSALADA DE INFO EN MI CABEZA JAJA
+02:43:35	Fernando Ferreyra:	Me tengo que ir de la clase profe después le pego un ojo a la grabación
+02:44:43	Leonardo Rodriguez:	href ?
+02:45:56	Dante Trogsar:	Perdon profe, como ocultabas los codigos?
+02:46:05	Facundo Puerto:	alguno que pase el codigo de form porfas
+02:46:15	[Tutor] Sebastián Zanatta:	ctrl + }
+02:46:17	Rodrigo Lazarczyk:	me perdi
+02:47:16	Rodrigo Lazarczyk:	aa
+02:47:29	Bernoi Maximiliano:	Podes poner la ruta entera
+02:47:35	Bernoi Maximiliano:	o simplemente el ./
+02:49:37	Bernoi Maximiliano:	Desde index ya no funcionaría el ./
+02:49:43	Gerardo Veliz Carreño:	el ./ es para poner ruta relativa cuando se deja en un servidor la pagina creo
+02:49:43	Bernoi Maximiliano:	pero desde contacto si
+02:50:03	Leonardo Rodriguez:	//
+02:50:03	Leonardo Rodriguez:	?
+02:50:06	Víctor Suárez:	Lo logreeeeeeeeee
+02:50:09	Gerardo Veliz Carreño:	./././
+02:50:11	Manuel Recchi:	pages
+02:50:26	Víctor Suárez:	Hice un enlace a Google y funciono. Gracias pibe
+02:50:39	Agustín Plaza:	para salir de la carpeta?
+02:50:44	[Tutor] Sebastián Zanatta:	Buenisimo Victor!
+02:50:48	Carlos Alberto Campos Huesos:	cual es el que mas se usa?
+02:50:54	Hugo Beas:	Para salir de la carpeta es con ruta absoluta, no?
+02:50:54	Isauro Rodriguez:	../ agus
+02:50:55	Joel abuin:	me re perdi :(
+02:51:06	Hugo Beas:	ya
+02:51:08	Agustín Plaza:	grax
+02:51:12	Angel Demaino:	x2
+02:51:26	Andres Orozco:	../ es para ir una carpeta atras?
+02:51:38	[Tutor] Sebastián Zanatta:	es para "salir" de la carpeta donde estas
+02:51:40	Agustin Garcia:	no
+02:51:40	Felipe Signorelli:	si
+02:51:41	Manuel Recchi:	no
+02:51:41	Leonardo Rodriguez:	si
+02:51:42	Simon Agudelo:	siiii
+02:51:42	Bernoi Maximiliano:	Si
+02:51:43	Víctor Suárez:	Justino lo que hice
+02:51:57	Leonardo Rodriguez:	xq ya esta subido en un sv
+02:52:09	Alejandro Falivene:	y no conviene siempre poner absoluto y listo?
+02:52:40	Hugo Beas:	no
+02:52:41	Santiago Menta:	no
+02:52:41	Leandro Cabrera:	No
+02:52:42	Aaron Gonzales:	no
+02:52:43	Leonardo Rodriguez:	no
+02:53:29	Hugo Beas:	👌
+02:54:42	Leonardo Rodriguez:	serian las letras azules q vemos?
+02:55:05	Hugo Beas:	Anclado dentro del mismo archivo
+02:55:05	Leonardo Rodriguez:	ahhhhhhhhhhhhhh mande fruta
+02:55:08	Hugo Beas:	bien
+02:55:20	Nicolás Degano:	Se puede poner "abrir en otra página" la ruta?
+02:55:42	Nicolás Degano:	perfecto
+02:55:53	Bernoi Maximiliano:	O hacemos la típica de "clickear" con nuestro botón de scroll en el mouse
+02:56:00	Bernoi Maximiliano:	o tocamos Ctrl y damos click normal
+02:57:48	Mauro Ferraro:	no conviene el absoluto?
+03:00:16	Agustin Garcia:	profe me tengo que ir, nos vemos el lunes gente
+03:01:41	Bernoi Maximiliano:	Y si la imagen se carga
+03:01:47	Bernoi Maximiliano:	pero nos paramos con el mouse sobre la imagen
+03:01:53	Bernoi Maximiliano:	no muestra su info?
+03:03:07	Agustin Di Nezio Camiletti:	figure y figcaption se usan ?
+03:03:16	Carlos Di Costa:	la imagen se seguiría mostrando si la imagen la eliminas de la computadora?
+03:03:39	Bernoi Maximiliano:	No
+03:03:57	Andres Barbosa Salamanca:	disculpa el alt solo esta para las imágenes?
+03:04:46	Bernoi Maximiliano:	No es como la caja con información que aparece en Wikipedia?
+03:04:53	Bernoi Maximiliano:	Cuando te paras sobre una palabra que tiene linkeada
+03:06:28	Leonardo Rodriguez:	si si
+03:06:48	Facundo Puerto:	sobre el tamaño ponemos algo?
+03:06:54	Facundo Puerto:	o se adecua solo?
+03:07:09	Facundo Puerto:	gracias!
+03:07:11	Leonardo Rodriguez:	entonces si quiero un clips de tw debería hacer eso ?
+03:07:24	Jordi Vidal:	e video y el audio es mas o menos lo mismo que con img verdad?
+03:07:28	Angel Demaino:	Gracias por la clase profe, un quilombo pero de a poco seguro vamos a poder
+03:07:31	Bernoi Maximiliano:	Si le doy un tamaño con atributos de HTML, y después lo modifico en CSS
+03:07:33	Bernoi Maximiliano:	Que ocurre?
+03:08:01	[Tutor] Sebastián Zanatta:	Eso se responderá mas adelante cuando se vea css Maxi
+03:08:02	Mateo Castaño:	dond encuentro ese manual?
+03:08:05	Joel abuin:	mal me perdi hace rato jaja la voy a tener que ver de vuelta !!
+03:08:07	[Tutor] Sebastián Zanatta:	se explica bien esa diferencia
+03:08:09	Bernoi Maximiliano:	Oka
+03:08:32	Hugo Beas:	VENGA
+03:08:33	Joel abuin:	que era el footer?
+03:08:41	Angel Demaino:	:(
+03:08:43	Joel abuin:	ahh gracias
+03:08:47	Celeste Michel:	hay que mandarlo a algun lado o ni
+03:08:51	Celeste Michel:	no
+03:09:19	Hugo Beas:	Qué tal están los audífonos que tiene en su fondo de pantalla?
+03:09:28	Leonardo Rodriguez:	listo ya tengo con q jugar xD
+03:09:29	[Tutor] Felipe Ramos:	Buenas noches chicos!!A practicar!!
+03:09:34	Mauro Ferraro:	muchas gracias
+03:09:35	Angel Demaino:	Gracias profe
+03:09:36	Ramiro Teodosio:	muchas gracias
+03:09:37	Leonardo Rodriguez:	dale dale gracias profee
+03:09:38	Joaquín Miranda:	genial muchas gracias profe!
+03:09:39	Ramiro Teodosio:	hasta el lunes !
+03:09:39	Santiago Nahuel Ruiz Sugliani:	genial, linda clase, nos vemos !
+03:09:41	Aaron Gonzales:	gracias profe
+03:09:41	Isauro Rodriguez:	Bueno profe, muchas gracias!!
+03:09:41	Julio Campuzano:	gracias profe
+03:09:47	Matias Caceres:	:O
+03:09:47	Hugo Beas:	Venga!
+03:09:53	Leandro Insua:	muchas gracias profe
+03:09:53	Nicolás Fonseca:	Cuando podré valorar la clase?
+03:09:54	Hugo Beas:	Gracias profe!
+03:09:54	Alejandro Falivene:	buenas noches! gracias!
+03:09:55	Gerardo Veliz Carreño:	gracias profesor, buenas noches!!!!
+03:09:59	Martín Marron:	Muchas gracias!
+03:09:59	Felipe Signorelli:	Buenas noches
+03:09:59	Nicolás Fonseca:	O desde ya?
+03:09:59	Victor Suarez:	buenisimo. a trabajar
+03:10:00	Ivan Jajdelski:	buena clase profe!mucha gracias x todo!
+03:10:00	Santiago Menta:	buenas noches
+03:10:01	Milagros Gomez Corres:	gracias profe!
+03:10:01	Julio Campuzano:	buenas noches!
+03:10:01	Manuel Saniez:	Buenas noches profe, cuidate!
+03:10:02	Bernoi Maximiliano:	Muchas gracias por la clase!
+03:10:02	Nicolás Degano:	perfecto gracias
+03:10:03	Felipe Poblete:	buenas noches a todos!
+03:10:03	Milagros Gomez Corres:	buenas noches
+03:10:04	Carlos Di Costa:	un saludo profe
+03:10:04	Juan García Martínez:	buenas noches!!
+03:10:06	Bernoi Maximiliano:	Buenas noches!
+03:10:07	Nicolás Degano:	Saludos
+03:10:09	Franco González:	nos vemos
+03:10:11	Antonella Rivero:	Buenas noches!
+03:10:12	Florencia Napoli Portal:	buenas noches
+03:10:12	Lautaro Melillo:	gracias, buenas noches
+03:10:16	Jazem Salloum:	gracias profesor
+03:10:19	Mateo Ciantino:	Pase todo el codigo por favor profe
+03:10:20	Leandro Cabrera:	Muchas gracias profe, buenas noches
+03:10:26	Mateo Ciantino:	Se lo agradezco mucho
+03:10:31	Celeste Michel:	recien los googlee, 550 dls
+03:10:38	Mateo Ciantino:	el codigo profe
+03:10:40	Bernoi Maximiliano:	Una clase 10 de 10
+03:10:44	Agustín Plaza:	chau buena clase
+03:10:45	Cristian Gabriel Gimenez:	Gracias profe!
+03:10:46	Victor Suarez:	nos vemos en el proximoooo
