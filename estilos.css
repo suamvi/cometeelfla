@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(129, 125, 128, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(129, 125, 128, 0.486) 0%, hsla(219, 18%, 22%, 0.514) 100%), url(img/woman.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -46,11 +46,11 @@ body{
     top: 30px;
     right: 30px;
     background: #fff;
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     cursor: pointer;
     border-radius: 10px;
-    box-shadow: 0 0 6px rgba(249, 245, 245, 0.993);
+    box-shadow: 0 0 6px rgba(251, 251, 251, 0.993);
 }
 
 .menu-navegacion{
